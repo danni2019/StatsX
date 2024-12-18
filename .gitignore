@@ -1,7 +1,7 @@
 
 # ignoring sensitive content
 docs
-front_end/page/static/model/visual_output
+front_end/page/static/model/visual_outputs
 logs
 
 trade.ini
